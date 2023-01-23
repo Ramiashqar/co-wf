@@ -1144,7 +1144,7 @@ var country = [
     code: 'IO',
   },
   {
-    name: 'Palestinian Authority',
+    name: 'Palestine',
     phone: 970,
     code: 'PS',
   },
