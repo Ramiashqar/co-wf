@@ -150,7 +150,7 @@ const flags = [
   { name: 'Nauru', dial_code: '+674', code: 'NR', flag: '🇳🇷' },
   { name: 'Nepal', dial_code: '+977', code: 'NP', flag: '🇳🇵' },
   { name: 'Netherlands', dial_code: '+31', code: 'NL', flag: '🇳🇱' },
-  { name: 'Netherlands Antilles', dial_code: '+599', code: 'AN', flag: '🇦🇳' },
+  { name: 'Netherlands Antilles', dial_code: '+599', code: 'AN', flag: '🇧🇶' },
   { name: 'New Caledonia', dial_code: '+687', code: 'NC', flag: '🇳🇨' },
   { name: 'New Zealand', dial_code: '+64', code: 'NZ', flag: '🇳🇿' },
   { name: 'Nicaragua', dial_code: '+505', code: 'NI', flag: '🇳🇮' },
