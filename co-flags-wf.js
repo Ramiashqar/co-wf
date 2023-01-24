@@ -163,7 +163,7 @@ const flags = [
   { name: 'Oman', dial_code: '+968', code: 'OM', flag: '🇴🇲' },
   { name: 'Pakistan', dial_code: '+92', code: 'PK', flag: '🇵🇰' },
   { name: 'Palau', dial_code: '+680', code: 'PW', flag: '🇵🇼' },
-  { name: 'Palestinian Territory, Occupied', dial_code: '+970', code: 'PS', flag: '🇵🇸' },
+  { name: 'Palestine', dial_code: '+970', code: 'PS', flag: '🇵🇸' },
   { name: 'Panama', dial_code: '+507', code: 'PA', flag: '🇵🇦' },
   { name: 'Papua New Guinea', dial_code: '+675', code: 'PG', flag: '🇵🇬' },
   { name: 'Paraguay', dial_code: '+595', code: 'PY', flag: '🇵🇾' },
